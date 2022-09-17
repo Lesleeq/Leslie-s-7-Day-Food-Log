@@ -1,2 +1,4 @@
 # Leslie-s-7-Day-Food-Log
-Food journal from Sunday to Saturday
+Breakfast: McDonald's ice coffee 
+Lunch: Chipotle burrito bowl with steak 
+Dinner: Leftover Fried chicken and avocado 
