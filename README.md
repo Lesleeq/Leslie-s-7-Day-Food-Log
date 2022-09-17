@@ -1,5 +1,4 @@
 # Leslie-s-7-Day-Food-Log
-#Food journal from Sunday to Saturday
           Sunday
 Breakfast: Fruitty Pebels cereal and almond milk 
 Lunch: Dinning hall food: Thin crust cheese pizza, Ceasr salad, Quinoa, and chicken breast 
