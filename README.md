@@ -15,6 +15,11 @@ Breakfast: Honey Bun and water
 Lunch: Spicy chicken ramen with egg 
 Dinner: Turkey sandwich; tomato, lettuce, turkey slices, and mayonnaise on whole wheat bread
 
+          Wednesday
+Breakfast: Corn flakes and almond milk
+Lunch: more corn flakes and almond milk
+Dinner: White rice and fried chicken
+
           Thursday
 Breakfast: McDonald's ice coffee 
 Lunch: Chipotle burrito bowl with steak 
@@ -29,3 +34,4 @@ Dinner: Belgium waffel and coffee
 Breakfast: McDonald's ice coffee
 Lunch: Pizza slice, carrots, quinoa salad, and cantaloupe
 Dinner: Corn flakes and almond milk
+
