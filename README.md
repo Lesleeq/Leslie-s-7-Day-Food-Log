@@ -9,7 +9,13 @@ Breakfast: Belgium Waffel and Coffee
 Lunch: Chicken nuggets and avocado
 Dinner: Rice, black bean soup, and salmon
 
+          Saturday
+Breakfast: McDonald's ice coffee
+Lunch: Pizza slice, carrots, quinoa salad, and cantaloupe
+Dinner: Corn flakes and almond milk
+
            Friday
 Breakfast: McDonald's egg mcmuffin with sausage and coffee 
 Lunch: Spicy chicken ramen with egg
 Dinner: Belgium waffel and coffee
+
