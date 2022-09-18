@@ -8,3 +8,8 @@ Dinner: Chicken nuggets with ketchup and a sweat potato
 Breakfast: Belgium Waffel and Coffee
 Lunch: Chicken nuggets and avocado
 Dinner: Rice, black bean soup, and salmon
+
+           Friday
+Breakfast: McDonald's egg mcmuffin with sausage and coffee 
+Lunch: Spicy chicken ramen with egg
+Dinner: Belgium waffel and coffee
