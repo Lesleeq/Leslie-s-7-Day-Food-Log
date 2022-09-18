@@ -8,3 +8,9 @@ Dinner: Chicken nuggets with ketchup and a sweat potato
 Breakfast: Belgium Waffel and Coffee
 Lunch: Chicken nuggets and avocado
 Dinner: Rice, black bean soup, and salmon
+
+
+          Saturday
+Breakfast: McDonald's ice coffee
+Lunch: Pizza slice, carrots, quinoa salad, and cantaloupe
+Dinner: Corn flakes and almond milk
