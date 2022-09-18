@@ -2,11 +2,11 @@
 
            Sunday
 Breakfast: Fruitty Pebels cereal and almond milk 
-Lunch: Dinning hall food: Thin crust cheese pizza, Ceasr salad, Quinoa, and chicken breast 
-Dinner: Chicken nuggets with ketchup and a sweat potato
+Lunch: Dinning hall food: Thin crust cheese pizza, Caesar salad, Quinoa, and chicken breast 
+Dinner: Chicken nuggets with ketchup and a sweet potato
 
            Monday
-Breakfast: Belgium Waffel and Coffee
+Breakfast: Belgium Waffle and Coffee
 Lunch: Chicken nuggets and avocado
 Dinner: Rice, black bean soup, and salmon
 
@@ -26,9 +26,9 @@ Lunch: Chipotle burrito bowl with steak
 Dinner: Leftover Fried chicken and avocado 
 
           Friday
-Breakfast: McDonald's egg mcmuffin with sausage and coffee 
+Breakfast: McDonald's egg McMuffin with sausage and coffee 
 Lunch: Spicy chicken ramen with egg
-Dinner: Belgium waffel and coffee
+Dinner: Belgium waffle and coffee
 
          Saturday
 Breakfast: McDonald's ice coffee
